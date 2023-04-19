@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohamadsherif1
 - 👀 I’m interested in embedded c and control
 - 🌱 I’m currently learning communication protocols and freeRtos 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "mohamadsherif2012@gmail.com
 
 <!---
